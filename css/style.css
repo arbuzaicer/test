@@ -146,12 +146,14 @@ html {
 }
 */
 .container-block-5-img-absolute {
+  display: none;
   position: absolute;
   right: 0;
   top: 520%;
   z-index: -5;
 }
 .container-block-6-img-absolute {
+  display: none;
   position: absolute;
   right: 0;
   top: 485%;
