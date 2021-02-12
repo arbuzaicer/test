@@ -1608,7 +1608,7 @@ html {
     width: 25rem;
   }
 }
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 470px) {
   .container {
     height: 100%;
     width: 45.5rem;
