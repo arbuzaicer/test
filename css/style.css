@@ -475,7 +475,7 @@ body {
 .info-icon-slider {
   margin-top: 10rem;
   margin-left: 5%;
-  width: 90%;
+  max-width: 90% !important;
 }
 .block-info {
   text-align: center;
