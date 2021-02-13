@@ -3,7 +3,11 @@
 @font-face {
   font-family: "Brown-bold-normal";
   src: url("../fonts/BrownBold.eot");
-  src: url("../fonts/BrownBold.eot?#iefix") format("embedded-opentype"), url("../fonts/BrownBold.woff2") format("woff2"), url("../fonts/BrownBold.woff") format("woff"), url("../fonts/BrownBold.ttf") format("truetype"), url("../fonts/BrownBold.svg#BrownBold") format("svg");
+  src: url("../fonts/BrownBold.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/BrownBold.woff2") format("woff2"),
+    url("../fonts/BrownBold.woff") format("woff"),
+    url("../fonts/BrownBold.ttf") format("truetype"),
+    url("../fonts/BrownBold.svg#BrownBold") format("svg");
   font-weight: bold;
   font-style: normal;
   font-display: swap;
@@ -11,7 +15,11 @@
 @font-face {
   font-family: "BrownLight-300-italic";
   src: url("../fonts/BrownLightItalic.eot");
-  src: url("../fonts/BrownLightItalic.eot?#iefix") format("embedded-opentype"), url("../fonts/BrownLightItalic.woff2") format("woff2"), url("../fonts/BrownLightItalic.woff") format("woff"), url("../fonts/BrownLightItalic.ttf") format("truetype"), url("../fonts/BrownLightItalic.svg#BrownLightItalic") format("svg");
+  src: url("../fonts/BrownLightItalic.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/BrownLightItalic.woff2") format("woff2"),
+    url("../fonts/BrownLightItalic.woff") format("woff"),
+    url("../fonts/BrownLightItalic.ttf") format("truetype"),
+    url("../fonts/BrownLightItalic.svg#BrownLightItalic") format("svg");
   font-weight: 300;
   font-style: italic;
   font-display: swap;
@@ -19,7 +27,11 @@
 @font-face {
   font-family: "BrownHeavy-900-normal";
   src: url("../fonts/BrownHeavy.eot");
-  src: url("../fonts/BrownHeavy.eot?#iefix") format("embedded-opentype"), url("../fonts/BrownHeavy.woff2") format("woff2"), url("../fonts/BrownHeavy.woff") format("woff"), url("../fonts/BrownHeavy.ttf") format("truetype"), url("../fonts/BrownHeavy.svg#BrownHeavy") format("svg");
+  src: url("../fonts/BrownHeavy.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/BrownHeavy.woff2") format("woff2"),
+    url("../fonts/BrownHeavy.woff") format("woff"),
+    url("../fonts/BrownHeavy.ttf") format("truetype"),
+    url("../fonts/BrownHeavy.svg#BrownHeavy") format("svg");
   font-weight: 900;
   font-style: normal;
   font-display: swap;
@@ -27,7 +39,11 @@
 @font-face {
   font-family: "Brown-normal-italic";
   src: url("../fonts/BrownItalic.eot");
-  src: url("../fonts/BrownItalic.eot?#iefix") format("embedded-opentype"), url("../fonts/BrownItalic.woff2") format("woff2"), url("../fonts/BrownItalic.woff") format("woff"), url("../fonts/BrownItalic.ttf") format("truetype"), url("../fonts/BrownItalic.svg#BrownItalic") format("svg");
+  src: url("../fonts/BrownItalic.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/BrownItalic.woff2") format("woff2"),
+    url("../fonts/BrownItalic.woff") format("woff"),
+    url("../fonts/BrownItalic.ttf") format("truetype"),
+    url("../fonts/BrownItalic.svg#BrownItalic") format("svg");
   font-weight: normal;
   font-style: italic;
   font-display: swap;
@@ -35,7 +51,11 @@
 @font-face {
   font-family: "Brown-bold-italic";
   src: url("../fonts/BrownBoldItalic.eot");
-  src: url("../fonts/BrownBoldItalic.eot?#iefix") format("embedded-opentype"), url("../fonts/BrownBoldItalic.woff2") format("woff2"), url("../fonts/BrownBoldItalic.woff") format("woff"), url("../fonts/BrownBoldItalic.ttf") format("truetype"), url("../fonts/BrownBoldItalic.svg#BrownBoldItalic") format("svg");
+  src: url("../fonts/BrownBoldItalic.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/BrownBoldItalic.woff2") format("woff2"),
+    url("../fonts/BrownBoldItalic.woff") format("woff"),
+    url("../fonts/BrownBoldItalic.ttf") format("truetype"),
+    url("../fonts/BrownBoldItalic.svg#BrownBoldItalic") format("svg");
   font-weight: bold;
   font-style: italic;
   font-display: swap;
@@ -43,7 +63,11 @@
 @font-face {
   font-family: "BrownMedium-500-italic";
   src: url("../fonts/BrownMediumItalic.eot");
-  src: url("../fonts/BrownMediumItalic.eot?#iefix") format("embedded-opentype"), url("../fonts/BrownMediumItalic.woff2") format("woff2"), url("../fonts/BrownMediumItalic.woff") format("woff"), url("../fonts/BrownMediumItalic.ttf") format("truetype"), url("../fonts/BrownMediumItalic.svg#BrownMediumItalic") format("svg");
+  src: url("../fonts/BrownMediumItalic.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/BrownMediumItalic.woff2") format("woff2"),
+    url("../fonts/BrownMediumItalic.woff") format("woff"),
+    url("../fonts/BrownMediumItalic.ttf") format("truetype"),
+    url("../fonts/BrownMediumItalic.svg#BrownMediumItalic") format("svg");
   font-weight: 500;
   font-style: italic;
   font-display: swap;
@@ -51,7 +75,11 @@
 @font-face {
   font-family: "BrownMedium-500-normal";
   src: url("../fonts/BrownMedium.eot");
-  src: url("../fonts/BrownMedium.eot?#iefix") format("embedded-opentype"), url("../fonts/BrownMedium.woff2") format("woff2"), url("../fonts/BrownMedium.woff") format("woff"), url("../fonts/BrownMedium.ttf") format("truetype"), url("../fonts/BrownMedium.svg#BrownMedium") format("svg");
+  src: url("../fonts/BrownMedium.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/BrownMedium.woff2") format("woff2"),
+    url("../fonts/BrownMedium.woff") format("woff"),
+    url("../fonts/BrownMedium.ttf") format("truetype"),
+    url("../fonts/BrownMedium.svg#BrownMedium") format("svg");
   font-weight: 500;
   font-style: normal;
   font-display: swap;
@@ -59,7 +87,13 @@
 @font-face {
   font-family: "BrownExtraBoldCondensed-800-normal";
   src: url("../fonts/BrownExtraBoldCondensed.eot");
-  src: url("../fonts/BrownExtraBoldCondensed.eot?#iefix") format("embedded-opentype"), url("../fonts/BrownExtraBoldCondensed.woff2") format("woff2"), url("../fonts/BrownExtraBoldCondensed.woff") format("woff"), url("../fonts/BrownExtraBoldCondensed.ttf") format("truetype"), url("../fonts/BrownExtraBoldCondensed.svg#BrownExtraBoldCondensed") format("svg");
+  src: url("../fonts/BrownExtraBoldCondensed.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/BrownExtraBoldCondensed.woff2") format("woff2"),
+    url("../fonts/BrownExtraBoldCondensed.woff") format("woff"),
+    url("../fonts/BrownExtraBoldCondensed.ttf") format("truetype"),
+    url("../fonts/BrownExtraBoldCondensed.svg#BrownExtraBoldCondensed")
+      format("svg");
   font-weight: 800;
   font-style: normal;
   font-display: swap;
@@ -67,7 +101,11 @@
 @font-face {
   font-family: "BrownExtraBold-800-normal";
   src: url("../fonts/BrownExtraBold.eot");
-  src: url("../fonts/BrownExtraBold.eot?#iefix") format("embedded-opentype"), url("../fonts/BrownExtraBold.woff2") format("woff2"), url("../fonts/BrownExtraBold.woff") format("woff"), url("../fonts/BrownExtraBold.ttf") format("truetype"), url("../fonts/BrownExtraBold.svg#BrownExtraBold") format("svg");
+  src: url("../fonts/BrownExtraBold.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/BrownExtraBold.woff2") format("woff2"),
+    url("../fonts/BrownExtraBold.woff") format("woff"),
+    url("../fonts/BrownExtraBold.ttf") format("truetype"),
+    url("../fonts/BrownExtraBold.svg#BrownExtraBold") format("svg");
   font-weight: 800;
   font-style: normal;
   font-display: swap;
@@ -75,7 +113,11 @@
 @font-face {
   font-family: "BrownLight-300-normal";
   src: url("../fonts/BrownLight.eot");
-  src: url("../fonts/BrownLight.eot?#iefix") format("embedded-opentype"), url("../fonts/BrownLight.woff2") format("woff2"), url("../fonts/BrownLight.woff") format("woff"), url("../fonts/BrownLight.ttf") format("truetype"), url("../fonts/BrownLight.svg#BrownLight") format("svg");
+  src: url("../fonts/BrownLight.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/BrownLight.woff2") format("woff2"),
+    url("../fonts/BrownLight.woff") format("woff"),
+    url("../fonts/BrownLight.ttf") format("truetype"),
+    url("../fonts/BrownLight.svg#BrownLight") format("svg");
   font-weight: 300;
   font-style: normal;
   font-display: swap;
@@ -86,7 +128,7 @@
 /* ---------------------------------------- Basic settings ---------------------------------------- */
 * {
   -webkit-box-sizing: border-box;
-          box-sizing: border-box;
+  box-sizing: border-box;
 }
 html {
   font-size: 10px;
@@ -116,7 +158,7 @@ html {
   outline: none;
   background-color: #521aff;
 }
-body{
+body {
   background: #f3f3f3;
 }
 /* ---------------------------------------- Background ---------------------------------------- */
@@ -186,13 +228,13 @@ body{
   display: -ms-flexbox;
   display: flex;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   -ms-flex-line-pack: center;
-      align-content: center;
+  align-content: center;
   -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
 }
 .header {
   display: -webkit-box;
@@ -214,8 +256,8 @@ body{
   display: flex;
   -webkit-box-orient: horizontal;
   -webkit-box-direction: normal;
-      -ms-flex-direction: row;
-          flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
 }
 .header-button-href {
   display: -webkit-box;
@@ -248,13 +290,13 @@ body{
   display: -ms-flexbox;
   display: flex;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   -ms-flex-line-pack: center;
-      align-content: center;
+  align-content: center;
   -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
 }
 .info {
   padding-top: 28rem;
@@ -299,11 +341,11 @@ body{
   padding-left: 3.5rem;
   -webkit-box-orient: horizontal;
   -webkit-box-direction: normal;
-      -ms-flex-direction: row;
-          flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
   -webkit-box-pack: start;
-      -ms-flex-pack: start;
-          justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
   font-family: "BrownLight-300-normal", sans-serif;
   color: #32325d;
 }
@@ -318,13 +360,13 @@ body{
   display: -ms-flexbox;
   display: flex;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   -ms-flex-line-pack: center;
-      align-content: center;
+  align-content: center;
   -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
 }
 .stability-application {
   margin-top: 13rem;
@@ -334,14 +376,14 @@ body{
   display: -ms-flexbox;
   display: flex;
   -ms-flex-wrap: wrap;
-      flex-wrap: wrap;
+  flex-wrap: wrap;
   -webkit-box-orient: horizontal;
   -webkit-box-direction: normal;
-      -ms-flex-direction: row;
-          flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
   -webkit-box-pack: start;
-      -ms-flex-pack: start;
-          justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
 }
 .stability-application-info {
   display: inline-block;
@@ -372,7 +414,7 @@ body{
   width: 52rem;
   height: 55rem;
   -webkit-box-shadow: -6.691px 7.431px 20px 0px rgba(212, 212, 250, 0.6);
-          box-shadow: -6.691px 7.431px 20px 0px rgba(212, 212, 250, 0.6);
+  box-shadow: -6.691px 7.431px 20px 0px rgba(212, 212, 250, 0.6);
   border-radius: 0.7rem;
 }
 .stability-application-content-img img {
@@ -398,13 +440,13 @@ body{
   display: -ms-flexbox;
   display: flex;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   -ms-flex-line-pack: center;
-      align-content: center;
+  align-content: center;
   -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
   background: url(../img/BG-slider.png) no-repeat bottom;
   padding-bottom: 25rem;
   background-size: max-content;
@@ -418,6 +460,7 @@ body{
   padding-top: 20rem;
 }
 .info-icon-header h3 {
+  padding: 0 5px;
   font-size: 4.8rem;
   color: #32325d;
   font-family: "BrownLight-300-normal", sans-serif;
@@ -441,8 +484,8 @@ body{
   display: flex;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
   border: none;
   height: 25rem;
   width: 25rem;
@@ -484,13 +527,13 @@ body{
   display: -ms-flexbox;
   display: flex;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   -ms-flex-line-pack: center;
-      align-content: center;
+  align-content: center;
   -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
 }
 .top-priority-1 {
   padding-top: 15rem;
@@ -519,11 +562,11 @@ body{
   padding-top: 4rem;
   -webkit-box-orient: horizontal;
   -webkit-box-direction: normal;
-      -ms-flex-direction: row;
-          flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
   -webkit-box-pack: justify;
-      -ms-flex-pack: justify;
-          justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
 }
 .top-priority-box-drive {
   height: 100%;
@@ -569,13 +612,13 @@ body{
   display: -ms-flexbox;
   display: flex;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   -ms-flex-line-pack: center;
-      align-content: center;
+  align-content: center;
   -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
 }
 .top-priority-2 {
   padding-top: 18rem;
@@ -593,13 +636,13 @@ body{
   display: -ms-flexbox;
   display: flex;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   -ms-flex-line-pack: center;
-      align-content: center;
+  align-content: center;
   -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
 }
 .auto-pilot {
   margin-top: 30rem;
@@ -624,13 +667,13 @@ body{
   display: -ms-flexbox;
   display: flex;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   -ms-flex-line-pack: center;
-      align-content: center;
+  align-content: center;
   -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
 }
 .li-info {
   padding-top: 15rem;
@@ -638,10 +681,10 @@ body{
   display: -ms-flexbox;
   display: flex;
   -ms-flex-wrap: wrap;
-      flex-wrap: wrap;
+  flex-wrap: wrap;
   -webkit-box-pack: justify;
-      -ms-flex-pack: justify;
-          justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
   padding-bottom: 15rem;
   outline: none;
 }
@@ -685,13 +728,13 @@ body{
   display: -ms-flexbox;
   display: flex;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   -ms-flex-line-pack: center;
-      align-content: center;
+  align-content: center;
   -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
   background: url(../img/BG-form.png);
 }
 .contact {
@@ -700,11 +743,11 @@ body{
   display: flex;
   -webkit-box-orient: horizontal;
   -webkit-box-direction: normal;
-      -ms-flex-direction: row;
-          flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
   -webkit-box-pack: justify;
-      -ms-flex-pack: justify;
-          justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
   padding-top: 17rem;
   padding-bottom: 13rem;
   height: auto;
@@ -732,7 +775,7 @@ body{
   text-align: center;
   height: 100%;
   -webkit-box-shadow: -6.691px 7.431px 20px 0px rgba(212, 212, 250, 0.2);
-          box-shadow: -6.691px 7.431px 20px 0px rgba(212, 212, 250, 0.2);
+  box-shadow: -6.691px 7.431px 20px 0px rgba(212, 212, 250, 0.2);
 }
 .contact-input-wrap-block {
   display: -webkit-box;
@@ -794,13 +837,13 @@ body{
   display: -ms-flexbox;
   display: flex;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   -ms-flex-line-pack: center;
-      align-content: center;
+  align-content: center;
   -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
   background: url(../img/BG-main.png);
 }
 .main-block {
@@ -809,11 +852,11 @@ body{
   display: flex;
   -webkit-box-orient: horizontal;
   -webkit-box-direction: normal;
-      -ms-flex-direction: row;
-          flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
   -webkit-box-pack: justify;
-      -ms-flex-pack: justify;
-          justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
   height: auto;
   padding-top: 20rem;
   padding-bottom: 20rem;
@@ -824,13 +867,13 @@ body{
   display: flex;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
   -webkit-box-pack: start;
-      -ms-flex-pack: start;
-          justify-content: start;
+  -ms-flex-pack: start;
+  justify-content: start;
   -ms-flex-wrap: wrap;
-      flex-wrap: wrap;
+  flex-wrap: wrap;
   width: 41rem;
   height: auto;
 }
@@ -934,13 +977,13 @@ body{
   display: -ms-flexbox;
   display: flex;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   -ms-flex-line-pack: center;
-      align-content: center;
+  align-content: center;
   -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
 }
 .popup-sing-in {
   display: none;
@@ -963,7 +1006,7 @@ body{
   top: 10%;
   left: 50%;
   -webkit-transform: translateX(-50%);
-          transform: translateX(-50%);
+  transform: translateX(-50%);
   padding: 1rem;
   background-color: #eaeafc;
   height: 60rem;
@@ -978,11 +1021,11 @@ body{
   display: flex;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
   -webkit-box-pack: justify;
-      -ms-flex-pack: justify;
-          justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
   padding: 3rem;
 }
 .popup-content h1 {
@@ -1070,7 +1113,7 @@ body{
   top: 10%;
   left: 50%;
   -webkit-transform: translateX(-50%);
-          transform: translateX(-50%);
+  transform: translateX(-50%);
   padding: 1rem;
   background-color: #eaeafc;
   height: 80rem;
@@ -1102,7 +1145,7 @@ body{
   top: 20%;
   left: 50%;
   -webkit-transform: translateX(-50%);
-          transform: translateX(-50%);
+  transform: translateX(-50%);
   padding: 1rem;
   background-color: #eaeafc;
   height: 25rem;
@@ -1134,7 +1177,7 @@ body{
   top: 20%;
   left: 50%;
   -webkit-transform: translateX(-50%);
-          transform: translateX(-50%);
+  transform: translateX(-50%);
   padding: 1rem;
   background-color: #eaeafc;
   height: 25rem;
@@ -1154,7 +1197,7 @@ body{
   top: 50%;
   left: 0;
   -webkit-transform: translateY(-50%);
-          transform: translateY(-50%);
+  transform: translateY(-50%);
   background: url(../img/left-arrow.png);
   background-position: center;
   background-size: 100%;
@@ -1181,7 +1224,7 @@ body{
   top: 50%;
   right: 0;
   -webkit-transform: translateY(-50%);
-          transform: translateY(-50%);
+  transform: translateY(-50%);
   background: url(../img/right-arrow.png);
   background-position: center;
   background-size: 100%;
@@ -1270,8 +1313,8 @@ body{
   }
   .stability-application {
     -webkit-box-pack: justify;
-        -ms-flex-pack: justify;
-            justify-content: space-between;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
   }
   .stability-application-info {
     width: 50rem;
@@ -1412,11 +1455,11 @@ body{
   .contact {
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
-        -ms-flex-direction: column;
-            flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
     -webkit-box-pack: justify;
-        -ms-flex-pack: justify;
-            justify-content: space-between;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
   }
   .contact-input {
     width: 100%;
@@ -1429,7 +1472,7 @@ body{
   }
   .main-block {
     -ms-flex-wrap: wrap;
-        flex-wrap: wrap;
+    flex-wrap: wrap;
   }
   .main-logo-contact {
     width: 40rem;
@@ -1537,11 +1580,11 @@ body{
     display: flex;
     -webkit-box-orient: horizontal;
     -webkit-box-direction: normal;
-        -ms-flex-direction: row;
-            flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
     -webkit-box-pack: space-evenly;
-        -ms-flex-pack: space-evenly;
-            justify-content: space-evenly;
+    -ms-flex-pack: space-evenly;
+    justify-content: space-evenly;
   }
   .stability-application-content {
     margin-left: 2rem;
@@ -1634,6 +1677,10 @@ body{
   }
   .info-icon-header h3 {
     font-size: 3rem;
+    padding: 3.8rem 5px 0 5px;
+  }
+  .info-icon-header p {
+    padding: 0 20px;
   }
   .top-priority-box h3 {
     font-size: 4rem;
