@@ -454,6 +454,7 @@ body {
 .info-icon {
   width: 100%;
 }
+
 .info-icon-header {
   width: 100%;
   text-align: center;
@@ -1668,6 +1669,10 @@ body {
   }
   .auto-pilot p {
     width: 100%;
+  }
+  .info-icon {
+    width: 90%;
+    margin-left: 5%;
   }
   .info-content h1 {
     font-size: 3rem;
